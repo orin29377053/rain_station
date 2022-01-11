@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'rain_station.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'database_test',
+        'NAME': 'sinotech_data',
         'USER': 'root',
-        'PASSWORD': 'root',
+        'PASSWORD': 'a29377053',
         'HOST': 'localhost',
         'PORT': '3306',
     }
